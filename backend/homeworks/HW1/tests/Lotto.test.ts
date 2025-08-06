@@ -1,5 +1,17 @@
 // tests/Lotto.test.ts
 
+/**
+ * Unit tests for Lotto class using Node.js built-in test runner 🧪
+ *
+ * This test suite checks:
+ * - Correct number of generated values
+ * - Uniqueness of numbers
+ * - Numbers fall within the expected range
+ * - Output is sorted in ascending order
+ *
+ * Usage:
+ *   npm test
+ */
 const test = require("node:test");
 import Lotto = require("../src/Lotto");
 
