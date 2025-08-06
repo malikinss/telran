@@ -1,7 +1,19 @@
 // tests/Validator.test.ts
 
+/**
+ * Unit tests for Validator class using Node.js built-in test runner 🧪
+ *
+ * This test suite verifies validation logic for:
+ * - Correct input that should not throw
+ * - Invalid amount exceeding range
+ * - Invalid min/max relationship
+ * - Non-integer input values
+ *
+ * Usage:
+ *   npm test
+ */
 const test = require("node:test");
-import Validator = require("../src/validator");
+import Validator = require("../src/Validator");
 
 describe("Validator", () => {
 	it("should not throw for valid values", () => {
