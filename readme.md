@@ -33,3 +33,7 @@ A TypeScript Express server demonstrating custom middleware, request rate limiti
 ## [Homework 8: Employees Back-End](https://github.com/malikinss/telran-backend-hw8)
 
 A TypeScript Express backend for managing employees with full CRUD functionality. Features include in-memory data storage, modular routes and controllers, middleware for JSON parsing, logging, and error handling, and integration-ready endpoints for a React front-end.
+
+## [Homework 9: Validation & Persistence](https://github.com/malikinss/telran-backend-hw9)
+
+A TypeScript + Express backend for managing employees with full data validation using Zod and persistent storage in a JSON file. Features include CRUD operations, graceful shutdown with auto-save, error-handling middleware, and fully typed endpoints.
