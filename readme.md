@@ -109,7 +109,9 @@ Enhanced binary search implementation in Python that returns the first occurrenc
 
 Two efficient O(N) Python solutions using hash sets: one checks if any pair sums to a target value, the other finds the largest positive number that has a negative counterpart. Includes edge-case handling and unit tests.
 
-#### [Homework 23: ](https://github.com/malikinss/telran-backend-hw23)
+#### [Homework 23: Club and Dictionary Classes](https://github.com/malikinss/telran-backend-hw23)
+
+Python implementations of `Club` and `Dictionary` classes showcasing efficient collection management. The project uses sorted containers for fast range queries, multi-key sorting, and case-insensitive prefix search, with full unit test coverage.
 
 #### [Homework 24: ](https://github.com/malikinss/telran-backend-hw24)
 
