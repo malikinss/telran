@@ -131,10 +131,22 @@ Memory-efficient generic array implementation supporting O(1) `set`, `get`, and 
 
 #### [Homework 27: LFU Dictionary Cache](https://github.com/malikinss/telran-backend-hw27)
 
-#### [Homework 28: ](https://github.com/malikinss/telran-backend-hw28)
+Custom dictionary-like cache implementing an LFU eviction policy with LRU tie-breaking, providing a full dict interface, efficient frequency tracking, and comprehensive unit test coverage.
 
-#### [Homework 29: ](https://github.com/malikinss/telran-backend-hw29)
+#### [Homework 28: Random Numbers Stream](https://github.com/malikinss/telran-backend-hw28)
 
-#### [Homework 30: ](https://github.com/malikinss/telran-backend-hw30)
+Flexible random number stream with support for filtering, limiting, and distinct value generation, implemented as a custom iterable and fully covered by unit tests.
+
+---
+
+### Machine Learning
+
+#### [Homework 29: `DataFrame` Categorical Converter](https://github.com/malikinss/telran-backend-hw29)
+
+A small Python utility for converting categorical string columns in a pandas `DataFrame` into sequential numeric values. Designed for clean data preprocessing, with a functional API and full unit test coverage.
+
+#### [Homework 30: Car `Model` Prediction](https://github.com/malikinss/telran-backend-hw30)
+
+A Python project that predicts car models based on customer attributes like `Gender` and `Color` using a `Decision Tree Classifier`. Includes categorical encoding, model persistence, accuracy evaluation, and basic data analysis with `pandas`.
 
 #### [Homework 31: ](https://github.com/malikinss/telran-backend-hw31)
