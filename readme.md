@@ -58,4 +58,6 @@ TypeScript SQL-backed employee service implementing `AbstractEmployeesServiceSql
 
 TypeScript MongoDB-backed employee service implementing `AbstractEmployeesServiceMongo`. Provides full CRUD with in-memory Mongo simulation, Zod validation, and role-based access. All service tests pass, ensuring reliable, modular persistence compatible with multiple storage backends.
 
-## [Homework 15: ](https://github.com/malikinss/telran-backend-hw15)
+## [Homework 15: SQL Queries on Chinook Database](https://github.com/malikinss/telran-backend-hw15)
+
+SQL queries on the `Chinook` database exploring tracks, albums, artists, invoices, customers, playlists, and employees. Focuses on multi-table JOINs, sorting, date formatting, and extracting meaningful relationships. Strengthens practical SQL skills for backend and data-driven applications.
