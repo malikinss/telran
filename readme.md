@@ -70,7 +70,9 @@ Advanced SQL analysis on the Chinook database, including revenue aggregation, an
 
 Advanced analytical SQL queries on the Chinook database using window functions, ranking, cumulative sums, and Pareto logic. Includes top tracks, revenue-generating genres, top customers, invoice distributions, and employee contributions. Focused on transforming transactional data into actionable business insights.
 
-## [Homework 18: ](https://github.com/malikinss/telran-backend-hw18)
+## [Homework 18: MongoDB Atlas DB Queries](https://github.com/malikinss/telran-backend-hw18)
+
+Practice MongoDB queries on the `sample_mflix` Atlas database, including filtering by year, languages, genres, directors, and comparing fields with `$expr`. Demonstrates projections, array matching, and basic query operators.
 
 ## [Homework 19: ](https://github.com/malikinss/telran-backend-hw19)
 
