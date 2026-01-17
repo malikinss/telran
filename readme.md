@@ -41,3 +41,7 @@ A TypeScript + Express backend for managing employees with full data validation 
 ## [Homework 10: Employees Back-End with Role-Based Authentication](https://github.com/malikinss/telran-backend-hw10)
 
 A TypeScript + Express backend for managing employees with JWT-based authentication and role-based access control. Features include CRUD operations, Zod validation, in-memory storage with JSON persistence, and secure endpoints for ADMIN and USER roles.
+
+## [Homework 11: Controller Unit Tests and Route Integration Testing](https://github.com/malikinss/telran-backend-hw11)
+
+TypeScript + Express backend for employee management with comprehensive controller unit tests and route integration tests. Features JWT authentication, role-based access, Zod validation, in-memory + file persistence, and automated testing using Supertest and Node’s native test runner. Ensures all endpoints are fully validated and secure.
