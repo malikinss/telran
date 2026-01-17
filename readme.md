@@ -66,7 +66,9 @@ SQL queries on the `Chinook` database exploring tracks, albums, artists, invoice
 
 Advanced SQL analysis on the Chinook database, including revenue aggregation, anomaly detection, and data integrity checks. Tasks cover unsold tracks, top-grossing tracks and genres, invoice total mismatches, and albums with inconsistent track pricing. Strengthens practical analytical SQL skills for backend, BI, and data engineering.
 
-## [Homework 17: ](https://github.com/malikinss/telran-backend-hw17)
+## [Homework 17: Advanced Analytical SQL Queries on Chinook Database](https://github.com/malikinss/telran-backend-hw17)
+
+Advanced analytical SQL queries on the Chinook database using window functions, ranking, cumulative sums, and Pareto logic. Includes top tracks, revenue-generating genres, top customers, invoice distributions, and employee contributions. Focused on transforming transactional data into actionable business insights.
 
 ## [Homework 18: ](https://github.com/malikinss/telran-backend-hw18)
 
