@@ -5,3 +5,7 @@
 ## [Homework 1: Sportlotto Application 🎱](https://github.com/malikinss/telran-backend-hw1)
 
 A TypeScript CLI application that simulates a lottery draw (Sportloto), generating unique random numbers within a specified range. Supports input validation, custom arguments, and unit testing with Jest.
+
+## [Homework 2: Code and Comment Extractor 📝](https://github.com/malikinss/telran-backend-hw2)
+
+A TypeScript Node.js application that extracts code and comments from a source file into separate files. Uses asynchronous file reading, line-by-line parsing, and supports unit testing with Jest.
