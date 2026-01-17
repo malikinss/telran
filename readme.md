@@ -105,7 +105,9 @@ MongoDB Atlas aggregation queries using `$lookup` to join `comments`, `movies`, 
 
 Enhanced binary search implementation in Python that returns the first occurrence of a value and an encoded insertion index when not found, while preserving O(log N) complexity. Includes edge-case handling and automated tests.
 
-#### [Homework 22: ](https://github.com/malikinss/telran-backend-hw22)
+#### [Homework 22: O(N) Python Solutions](https://github.com/malikinss/telran-backend-hw22)
+
+Two efficient O(N) Python solutions using hash sets: one checks if any pair sums to a target value, the other finds the largest positive number that has a negative counterpart. Includes edge-case handling and unit tests.
 
 #### [Homework 23: ](https://github.com/malikinss/telran-backend-hw23)
 
