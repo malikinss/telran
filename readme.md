@@ -6,7 +6,7 @@
 
 #### [Homework 1: Sportlotto Application 🎱](https://github.com/malikinss/telran-backend-hw1)
 
-A TypeScript CLI application that simulates a lottery draw (Sportloto), generating unique random numbers within a specified range.
+A TypeScript `CLI` application that simulates a lottery draw (Sportloto), generating unique random numbers within a specified range.
 Supports input validation, custom arguments, and unit testing with Jest.
 
 #### [Homework 2: Code and Comment Extractor 📝](https://github.com/malikinss/telran-backend-hw2)
@@ -17,7 +17,7 @@ A TypeScript Node.js application that extracts code and comments from a source f
 
 A TypeScript Logger with configurable log levels, timestamped messages, and colored console output. Supports level-specific and global handlers, leveraging Node.js EventEmitter for flexible logging and extensibility.
 
-#### [Homework 4: RandomNumbersStream Application](https://github.com/malikinss/telran-backend-hw4)
+#### [Homework 4: `RandomNumbersStream` Application](https://github.com/malikinss/telran-backend-hw4)
 
 A TypeScript Node.js application providing a readable stream of random numbers. Supports unique or non-unique numbers, configurable ranges and amounts, streaming output, and centralized configuration with proper error handling.
 
@@ -25,9 +25,9 @@ A TypeScript Node.js application providing a readable stream of random numbers. 
 
 A TypeScript Node.js project that generates random unique numbers using an asynchronous stream pipeline. Features modular streams for generation, uniqueness enforcement, formatting, and console output, with configuration-driven parameters and robust validation.
 
-#### [Homework 6: Calculator on HTTP Server](https://github.com/malikinss/telran-backend-hw6)
+#### [Homework 6: Calculator on `HTTP` Server](https://github.com/malikinss/telran-backend-hw6)
 
-A TypeScript Node.js HTTP server that performs basic arithmetic operations via JSON requests. Validates input, executes calculations, handles errors with appropriate HTTP status codes, and follows a modular design separating controller, service, and utility modules.
+A TypeScript Node.js `HTTP` server that performs basic arithmetic operations via `JSON` requests. Validates input, executes calculations, handles errors with appropriate `HTTP` status codes, and follows a modular design separating controller, service, and utility modules.
 
 ---
 
@@ -37,7 +37,7 @@ A TypeScript Node.js HTTP server that performs basic arithmetic operations via J
 
 A TypeScript Express server demonstrating custom middleware, request rate limiting, and modular routes. Features include timestamping requests, limiting repeated requests, and structured JSON responses with proper HTTP status codes.
 
-#### [Homework 8: Employees Back-End](https://github.com/malikinss/telran-backend-hw8)
+#### [Homework 8: `Employees` Back-End](https://github.com/malikinss/telran-backend-hw8)
 
 A TypeScript Express backend for managing employees with full CRUD functionality. Features include in-memory data storage, modular routes and controllers, middleware for JSON parsing, logging, and error handling, and integration-ready endpoints for a React front-end.
 
@@ -45,7 +45,7 @@ A TypeScript Express backend for managing employees with full CRUD functionality
 
 A TypeScript + Express backend for managing employees with full data validation using Zod and persistent storage in a JSON file. Features include CRUD operations, graceful shutdown with auto-save, error-handling middleware, and fully typed endpoints.
 
-#### [Homework 10: Employees Back-End with Role-Based Authentication](https://github.com/malikinss/telran-backend-hw10)
+#### [Homework 10: `Employees` Back-End with Role-Based Authentication](https://github.com/malikinss/telran-backend-hw10)
 
 A TypeScript + Express backend for managing employees with JWT-based authentication and role-based access control. Features include CRUD operations, Zod validation, in-memory storage with JSON persistence, and secure endpoints for ADMIN and USER roles.
 
@@ -59,27 +59,31 @@ TypeScript unit tests for the `EmployeesService` module. Covers all service meth
 
 ---
 
-### SQL
+### Data Base
 
-#### [Homework 13: SQL Service Implementation with AbstractEmployeesServiceSql](https://github.com/malikinss/telran-backend-hw13)
+#### [Homework 13: SQL Service Implementation with `AbstractEmployeesServiceSql`](https://github.com/malikinss/telran-backend-hw13)
 
 TypeScript SQL-backed employee service implementing `AbstractEmployeesServiceSql` with full CRUD using Knex and SQLite. Ensures persistent storage, testable service methods, and integration with the service registry. All methods are covered by unit tests.
 
-#### [Homework 14: Mongo Service Implementation with AbstractEmployeesServiceMongo](https://github.com/malikinss/telran-backend-hw14)
+#### [Homework 14: Mongo Service Implementation with `AbstractEmployeesServiceMongo`](https://github.com/malikinss/telran-backend-hw14)
 
 TypeScript MongoDB-backed employee service implementing `AbstractEmployeesServiceMongo`. Provides full CRUD with in-memory Mongo simulation, Zod validation, and role-based access. All service tests pass, ensuring reliable, modular persistence compatible with multiple storage backends.
 
-#### [Homework 15: SQL Queries on Chinook Database](https://github.com/malikinss/telran-backend-hw15)
+---
+
+### SQL
+
+#### [Homework 15: SQL Queries on `Chinook` Database](https://github.com/malikinss/telran-backend-hw15)
 
 SQL queries on the `Chinook` database exploring tracks, albums, artists, invoices, customers, playlists, and employees. Focuses on multi-table JOINs, sorting, date formatting, and extracting meaningful relationships. Strengthens practical SQL skills for backend and data-driven applications.
 
-#### [Homework 16: Advanced SQL Queries on Chinook Database](https://github.com/malikinss/telran-backend-hw16)
+#### [Homework 16: Advanced SQL Queries on `Chinook` Database](https://github.com/malikinss/telran-backend-hw16)
 
-Advanced SQL analysis on the Chinook database, including revenue aggregation, anomaly detection, and data integrity checks. Tasks cover unsold tracks, top-grossing tracks and genres, invoice total mismatches, and albums with inconsistent track pricing. Strengthens practical analytical SQL skills for backend, BI, and data engineering.
+Advanced SQL analysis on the `Chinook` database, including revenue aggregation, anomaly detection, and data integrity checks. Tasks cover unsold tracks, top-grossing tracks and genres, invoice total mismatches, and albums with inconsistent track pricing. Strengthens practical analytical SQL skills for backend, BI, and data engineering.
 
-#### [Homework 17: Advanced Analytical SQL Queries on Chinook Database](https://github.com/malikinss/telran-backend-hw17)
+#### [Homework 17: Advanced Analytical SQL Queries on `Chinook` Database](https://github.com/malikinss/telran-backend-hw17)
 
-Advanced analytical SQL queries on the Chinook database using window functions, ranking, cumulative sums, and Pareto logic. Includes top tracks, revenue-generating genres, top customers, invoice distributions, and employee contributions. Focused on transforming transactional data into actionable business insights.
+Advanced analytical SQL queries on the `Chinook` database using window functions, ranking, cumulative sums, and Pareto logic. Includes top tracks, revenue-generating genres, top customers, invoice distributions, and employee contributions. Focused on transforming transactional data into actionable business insights.
 
 ---
 
@@ -89,7 +93,7 @@ Advanced analytical SQL queries on the Chinook database using window functions, 
 
 Practice MongoDB queries on the `sample_mflix` Atlas database, including filtering by year, languages, genres, directors, and comparing fields with `$expr`. Demonstrates projections, array matching, and basic query operators.
 
-#### [Homework 19: MongoDB Employees and Atlas Aggregations](https://github.com/malikinss/telran-backend-hw19)
+#### [Homework 19: MongoDB `Employees` and Atlas Aggregations](https://github.com/malikinss/telran-backend-hw19)
 
 Advanced MongoDB Atlas aggregations on the `sample_mflix` database. Queries include top actors by movie count, filtering by languages and viewer ratings, comparing array sizes, and ranking movies by awards. Demonstrates `$unwind`, `$group`, `$setWindowFields`, `$expr`, and array operations.
 
@@ -109,7 +113,7 @@ Enhanced binary search implementation in Python that returns the first occurrenc
 
 Two efficient O(N) Python solutions using hash sets: one checks if any pair sums to a target value, the other finds the largest positive number that has a negative counterpart. Includes edge-case handling and unit tests.
 
-#### [Homework 23: Club and Dictionary Classes](https://github.com/malikinss/telran-backend-hw23)
+#### [Homework 23: `Club` and `Dictionary` Classes](https://github.com/malikinss/telran-backend-hw23)
 
 Python implementations of `Club` and `Dictionary` classes showcasing efficient collection management. The project uses sorted containers for fast range queries, multi-key sorting, and case-insensitive prefix search, with full unit test coverage.
 
@@ -117,7 +121,7 @@ Python implementations of `Club` and `Dictionary` classes showcasing efficient c
 
 Custom Python implementations of dictionary-like data structures: a basic set-backed dictionary, a sorted dictionary with logarithmic operations, and an LRU cache built on OrderedDict. The project focuses on data structures, complexity guarantees, and full unit test coverage.
 
-#### [Homework 25: Stack with Max and NumberBox Implementation](https://github.com/malikinss/telran-backend-hw25)
+#### [Homework 25: Stack with `Max` and `NumberBox` Implementation](https://github.com/malikinss/telran-backend-hw25)
 
 Python implementations of optimized data structures: an integer stack with O(1) max retrieval and a sorted number container supporting efficient removal, filtering, and deduplication, fully covered by unit tests.
 
