@@ -2,11 +2,12 @@
 
 ## Backend - Course
 
-### TypeScript + Node.js + Express
+### TypeScript + Node.js
 
 #### [Homework 1: Sportlotto Application 🎱](https://github.com/malikinss/telran-backend-hw1)
 
-A TypeScript CLI application that simulates a lottery draw (Sportloto), generating unique random numbers within a specified range. Supports input validation, custom arguments, and unit testing with Jest.
+A TypeScript CLI application that simulates a lottery draw (Sportloto), generating unique random numbers within a specified range.
+Supports input validation, custom arguments, and unit testing with Jest.
 
 #### [Homework 2: Code and Comment Extractor 📝](https://github.com/malikinss/telran-backend-hw2)
 
@@ -27,6 +28,10 @@ A TypeScript Node.js project that generates random unique numbers using an async
 #### [Homework 6: Calculator on HTTP Server](https://github.com/malikinss/telran-backend-hw6)
 
 A TypeScript Node.js HTTP server that performs basic arithmetic operations via JSON requests. Validates input, executes calculations, handles errors with appropriate HTTP status codes, and follows a modular design separating controller, service, and utility modules.
+
+---
+
+### Express
 
 #### [Homework 7: Express Middleware and Routes](https://github.com/malikinss/telran-backend-hw7)
 
@@ -52,6 +57,8 @@ TypeScript + Express backend for employee management with comprehensive controll
 
 TypeScript unit tests for the `EmployeesService` module. Covers all service methods (`getAll`, `getEmployee`, `addEmployee`, `updateEmployee`, `deleteEmployee`) with success and error cases. Uses Node’s built-in test runner to ensure isolated, reliable business logic without involving Express routes.
 
+---
+
 ### SQL
 
 #### [Homework 13: SQL Service Implementation with AbstractEmployeesServiceSql](https://github.com/malikinss/telran-backend-hw13)
@@ -74,6 +81,8 @@ Advanced SQL analysis on the Chinook database, including revenue aggregation, an
 
 Advanced analytical SQL queries on the Chinook database using window functions, ranking, cumulative sums, and Pareto logic. Includes top tracks, revenue-generating genres, top customers, invoice distributions, and employee contributions. Focused on transforming transactional data into actionable business insights.
 
+---
+
 ### MongoDB
 
 #### [Homework 18: MongoDB Atlas DB Queries](https://github.com/malikinss/telran-backend-hw18)
@@ -88,7 +97,13 @@ Advanced MongoDB Atlas aggregations on the `sample_mflix` database. Queries incl
 
 MongoDB Atlas aggregation queries using `$lookup` to join `comments`, `movies`, and `users` collections. Tasks include retrieving fully joined comment data and re-implementing a global average viewer rating filter without `$setWindowFields`.
 
-#### [Homework 21: ](https://github.com/malikinss/telran-backend-hw21)
+---
+
+### Python
+
+#### [Homework 21: Python Binary Search](https://github.com/malikinss/telran-backend-hw21)
+
+Enhanced binary search implementation in Python that returns the first occurrence of a value and an encoded insertion index when not found, while preserving O(log N) complexity. Includes edge-case handling and automated tests.
 
 #### [Homework 22: ](https://github.com/malikinss/telran-backend-hw22)
 
