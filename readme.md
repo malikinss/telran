@@ -125,9 +125,11 @@ Custom Python implementations of dictionary-like data structures: a basic set-ba
 
 Python implementations of optimized data structures: an integer stack with O(1) max retrieval and a sorted number container supporting efficient removal, filtering, and deduplication, fully covered by unit tests.
 
-#### [Homework 26: ](https://github.com/malikinss/telran-backend-hw26)
+#### [Homework 26: Generic Array with O(1) Operations](https://github.com/malikinss/telran-backend-hw26)
 
-#### [Homework 27: ](https://github.com/malikinss/telran-backend-hw27)
+Memory-efficient generic array implementation supporting O(1) `set`, `get`, and `set_all` operations without allocating space proportional to the array size, fully validated by unit tests.
+
+#### [Homework 27: LFU Dictionary Cache](https://github.com/malikinss/telran-backend-hw27)
 
 #### [Homework 28: ](https://github.com/malikinss/telran-backend-hw28)
 
