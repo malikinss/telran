@@ -61,3 +61,5 @@ TypeScript MongoDB-backed employee service implementing `AbstractEmployeesServic
 ## [Homework 15: SQL Queries on Chinook Database](https://github.com/malikinss/telran-backend-hw15)
 
 SQL queries on the `Chinook` database exploring tracks, albums, artists, invoices, customers, playlists, and employees. Focuses on multi-table JOINs, sorting, date formatting, and extracting meaningful relationships. Strengthens practical SQL skills for backend and data-driven applications.
+
+## [Homework 16: ](https://github.com/malikinss/telran-backend-hw16)
