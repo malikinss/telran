@@ -37,3 +37,7 @@ A TypeScript Express backend for managing employees with full CRUD functionality
 ## [Homework 9: Validation & Persistence](https://github.com/malikinss/telran-backend-hw9)
 
 A TypeScript + Express backend for managing employees with full data validation using Zod and persistent storage in a JSON file. Features include CRUD operations, graceful shutdown with auto-save, error-handling middleware, and fully typed endpoints.
+
+## [Homework 10: Employees Back-End with Role-Based Authentication](https://github.com/malikinss/telran-backend-hw10)
+
+A TypeScript + Express backend for managing employees with JWT-based authentication and role-based access control. Features include CRUD operations, Zod validation, in-memory storage with JSON persistence, and secure endpoints for ADMIN and USER roles.
