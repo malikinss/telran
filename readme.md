@@ -25,3 +25,11 @@ A TypeScript Node.js project that generates random unique numbers using an async
 ## [Homework 6: Calculator on HTTP Server](https://github.com/malikinss/telran-backend-hw6)
 
 A TypeScript Node.js HTTP server that performs basic arithmetic operations via JSON requests. Validates input, executes calculations, handles errors with appropriate HTTP status codes, and follows a modular design separating controller, service, and utility modules.
+
+## [Homework 7: Express Middleware and Routes](https://github.com/malikinss/telran-backend-hw7)
+
+A TypeScript Express server demonstrating custom middleware, request rate limiting, and modular routes. Features include timestamping requests, limiting repeated requests, and structured JSON responses with proper HTTP status codes.
+
+## [Homework 8: Employees Back-End](https://github.com/malikinss/telran-backend-hw8)
+
+A TypeScript Express backend for managing employees with full CRUD functionality. Features include in-memory data storage, modular routes and controllers, middleware for JSON parsing, logging, and error handling, and integration-ready endpoints for a React front-end.
