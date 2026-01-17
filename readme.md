@@ -115,7 +115,11 @@ Python implementations of `Club` and `Dictionary` classes showcasing efficient c
 
 #### [Homework 24: Custom Dictionary Implementations and Cache](https://github.com/malikinss/telran-backend-hw24)
 
-#### [Homework 25: ](https://github.com/malikinss/telran-backend-hw25)
+Custom Python implementations of dictionary-like data structures: a basic set-backed dictionary, a sorted dictionary with logarithmic operations, and an LRU cache built on OrderedDict. The project focuses on data structures, complexity guarantees, and full unit test coverage.
+
+#### [Homework 25: Stack with Max and NumberBox Implementation](https://github.com/malikinss/telran-backend-hw25)
+
+Python implementations of optimized data structures: an integer stack with O(1) max retrieval and a sorted number container supporting efficient removal, filtering, and deduplication, fully covered by unit tests.
 
 #### [Homework 26: ](https://github.com/malikinss/telran-backend-hw26)
 
