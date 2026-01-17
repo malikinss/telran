@@ -44,8 +44,18 @@ A TypeScript + Express backend for managing employees with JWT-based authenticat
 
 ## [Homework 11: Controller Unit Tests and Route Integration Testing](https://github.com/malikinss/telran-backend-hw11)
 
-TypeScript + Express backend for employee management with comprehensive controller unit tests and route integration tests. Features JWT authentication, role-based access, Zod validation, in-memory + file persistence, and automated testing using Supertest and Node’s native test runner. Ensures all endpoints are fully validated and secure.
+TypeScript + Express backend for employee management with comprehensive controller unit tests and route integration tests. Features `JWT` authentication, role-based access, Zod validation, in-memory + file persistence, and automated testing using Supertest and Node’s native test runner. Ensures all endpoints are fully validated and secure.
 
 ## [Homework 12: Service Unit-Test](https://github.com/malikinss/telran-backend-hw12)
 
-TypeScript unit tests for the EmployeesService module. Covers all service methods (getAll, getEmployee, addEmployee, updateEmployee, deleteEmployee) with success and error cases. Uses Node’s built-in test runner to ensure isolated, reliable business logic without involving Express routes.
+TypeScript unit tests for the `EmployeesService` module. Covers all service methods (`getAll`, `getEmployee`, `addEmployee`, `updateEmployee`, `deleteEmployee`) with success and error cases. Uses Node’s built-in test runner to ensure isolated, reliable business logic without involving Express routes.
+
+## [Homework 13: SQL Service Implementation with AbstractEmployeesServiceSql](https://github.com/malikinss/telran-backend-hw13)
+
+TypeScript SQL-backed employee service implementing `AbstractEmployeesServiceSql` with full CRUD using Knex and SQLite. Ensures persistent storage, testable service methods, and integration with the service registry. All methods are covered by unit tests.
+
+## [Homework 14: Mongo Service Implementation with AbstractEmployeesServiceMongo](https://github.com/malikinss/telran-backend-hw14)
+
+TypeScript MongoDB-backed employee service implementing `AbstractEmployeesServiceMongo`. Provides full CRUD with in-memory Mongo simulation, Zod validation, and role-based access. All service tests pass, ensuring reliable, modular persistence compatible with multiple storage backends.
+
+## [Homework 15: ](https://github.com/malikinss/telran-backend-hw15)
