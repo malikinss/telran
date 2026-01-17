@@ -62,10 +62,14 @@ TypeScript MongoDB-backed employee service implementing `AbstractEmployeesServic
 
 SQL queries on the `Chinook` database exploring tracks, albums, artists, invoices, customers, playlists, and employees. Focuses on multi-table JOINs, sorting, date formatting, and extracting meaningful relationships. Strengthens practical SQL skills for backend and data-driven applications.
 
-## [Homework 16: ](https://github.com/malikinss/telran-backend-hw16)
+## [Homework 16: Advanced SQL Queries on Chinook Database](https://github.com/malikinss/telran-backend-hw16)
+
+Advanced SQL analysis on the Chinook database, including revenue aggregation, anomaly detection, and data integrity checks. Tasks cover unsold tracks, top-grossing tracks and genres, invoice total mismatches, and albums with inconsistent track pricing. Strengthens practical analytical SQL skills for backend, BI, and data engineering.
 
 ## [Homework 17: ](https://github.com/malikinss/telran-backend-hw17)
 
 ## [Homework 18: ](https://github.com/malikinss/telran-backend-hw18)
 
 ## [Homework 19: ](https://github.com/malikinss/telran-backend-hw19)
+
+## [Homework 20: ](https://github.com/malikinss/telran-backend-hw20)
