@@ -17,3 +17,11 @@ A TypeScript Logger with configurable log levels, timestamped messages, and colo
 ## [Homework 4: RandomNumbersStream Application](https://github.com/malikinss/telran-backend-hw4)
 
 A TypeScript Node.js application providing a readable stream of random numbers. Supports unique or non-unique numbers, configurable ranges and amounts, streaming output, and centralized configuration with proper error handling.
+
+## [Homework 5: Random Unique Numbers using Async Pipeline](https://github.com/malikinss/telran-backend-hw5)
+
+A TypeScript Node.js project that generates random unique numbers using an asynchronous stream pipeline. Features modular streams for generation, uniqueness enforcement, formatting, and console output, with configuration-driven parameters and robust validation.
+
+## [Homework 6: Calculator on HTTP Server](https://github.com/malikinss/telran-backend-hw6)
+
+A TypeScript Node.js HTTP server that performs basic arithmetic operations via JSON requests. Validates input, executes calculations, handles errors with appropriate HTTP status codes, and follows a modular design separating controller, service, and utility modules.
