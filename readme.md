@@ -67,3 +67,5 @@ SQL queries on the `Chinook` database exploring tracks, albums, artists, invoice
 ## [Homework 17: ](https://github.com/malikinss/telran-backend-hw17)
 
 ## [Homework 18: ](https://github.com/malikinss/telran-backend-hw18)
+
+## [Homework 19: ](https://github.com/malikinss/telran-backend-hw19)
