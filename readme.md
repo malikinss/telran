@@ -87,3 +87,25 @@ Advanced MongoDB Atlas aggregations on the `sample_mflix` database. Queries incl
 #### [Homework 20: MongoDB LookUp Queries](https://github.com/malikinss/telran-backend-hw20)
 
 MongoDB Atlas aggregation queries using `$lookup` to join `comments`, `movies`, and `users` collections. Tasks include retrieving fully joined comment data and re-implementing a global average viewer rating filter without `$setWindowFields`.
+
+#### [Homework 21: ](https://github.com/malikinss/telran-backend-hw21)
+
+#### [Homework 22: ](https://github.com/malikinss/telran-backend-hw22)
+
+#### [Homework 23: ](https://github.com/malikinss/telran-backend-hw23)
+
+#### [Homework 24: ](https://github.com/malikinss/telran-backend-hw24)
+
+#### [Homework 25: ](https://github.com/malikinss/telran-backend-hw25)
+
+#### [Homework 26: ](https://github.com/malikinss/telran-backend-hw26)
+
+#### [Homework 27: ](https://github.com/malikinss/telran-backend-hw27)
+
+#### [Homework 28: ](https://github.com/malikinss/telran-backend-hw28)
+
+#### [Homework 29: ](https://github.com/malikinss/telran-backend-hw29)
+
+#### [Homework 30: ](https://github.com/malikinss/telran-backend-hw30)
+
+#### [Homework 31: ](https://github.com/malikinss/telran-backend-hw31)
