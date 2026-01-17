@@ -113,7 +113,7 @@ Two efficient O(N) Python solutions using hash sets: one checks if any pair sums
 
 Python implementations of `Club` and `Dictionary` classes showcasing efficient collection management. The project uses sorted containers for fast range queries, multi-key sorting, and case-insensitive prefix search, with full unit test coverage.
 
-#### [Homework 24: ](https://github.com/malikinss/telran-backend-hw24)
+#### [Homework 24: Custom Dictionary Implementations and Cache](https://github.com/malikinss/telran-backend-hw24)
 
 #### [Homework 25: ](https://github.com/malikinss/telran-backend-hw25)
 
