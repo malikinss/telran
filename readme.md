@@ -149,4 +149,5 @@ A small Python utility for converting categorical string columns in a pandas `Da
 
 A Python project that predicts car models based on customer attributes like `Gender` and `Color` using a `Decision Tree Classifier`. Includes categorical encoding, model persistence, accuracy evaluation, and basic data analysis with `pandas`.
 
-#### [Homework 31: ](https://github.com/malikinss/telran-backend-hw31)
+#### [Homework 31: Conway’s Game of Life](https://github.com/malikinss/telran-backend-hw31)
+Python implementation of Conway’s Game of Life with a pure algorithmic core, NumPy-based matrix operations, stable-state detection, and Jupyter-based visualization. Fully unit-tested and interview-ready.
