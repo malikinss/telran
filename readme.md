@@ -152,5 +152,5 @@ A Python project that predicts car models based on customer attributes like `Gen
 #### [Homework 31: Conway’s Game of Life](https://github.com/malikinss/telran-backend-hw31)
 Python implementation of Conway’s Game of Life with a pure algorithmic core, NumPy-based matrix operations, stable-state detection, and Jupyter-based visualization. Fully unit-tested and interview-ready.
 
-#### [Homework 32: Text Processing & Similarity Search](https://github.com/malikinss/telran-backend-hw31)
+#### [Homework 32: Text Processing & Similarity Search](https://github.com/malikinss/telran-backend-hw32)
 Python implementation of a lightweight text-based similarity search model using TF-IDF vectorization and cosine similarity. Supports question-answering by returning the most relevant sentences from a given text. Fully unit-tested and designed for educational NLP experiments.
