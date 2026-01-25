@@ -154,3 +154,6 @@ Python implementation of Conway’s Game of Life with a pure algorithmic core, N
 
 #### [Homework 32: Text Processing & Similarity Search](https://github.com/malikinss/telran-backend-hw32)
 Python implementation of a lightweight text-based similarity search model using TF-IDF vectorization and cosine similarity. Supports question-answering by returning the most relevant sentences from a given text. Fully unit-tested and designed for educational NLP experiments.
+
+#### [Homework 33: YOLOv8 Image Processing & Analysis](https://github.com/malikinss/telran-backend-hw33)
+Python class `ImageInfo` for analyzing `YOLOv8` segmentation results. Provides structured access to detected objects, filtering by class, detailed box info, and mapping suitcases/handbags to the nearest person using normalized distances. Ideal for computer vision analytics, object tracking, and spatial reasoning experiments.
