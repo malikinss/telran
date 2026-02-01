@@ -157,3 +157,7 @@ Python implementation of a lightweight text-based similarity search model using 
 
 #### [Homework 33: YOLOv8 Image Processing & Analysis](https://github.com/malikinss/telran-backend-hw33)
 Python class `ImageInfo` for analyzing `YOLOv8` segmentation results. Provides structured access to detected objects, filtering by class, detailed box info, and mapping suitcases/handbags to the nearest person using normalized distances. Ideal for computer vision analytics, object tracking, and spatial reasoning experiments.
+
+#### [Homework 34: Synthetic Shape Dataset & YOLOv8 Custom Model](https://github.com/malikinss/telran-backend-hw34)
+This project creates a synthetic dataset of circles and squares, generates YOLOv8-compatible labels, and trains a custom object detection model. It demonstrates an end-to-end workflow for dataset generation, model training, and inference with modular, reusable Python code.
+
