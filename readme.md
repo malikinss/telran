@@ -160,7 +160,7 @@ Python class `ImageInfo` for analyzing `YOLOv8` segmentation results. Provides s
 
 #### [Homework 34: Synthetic Shape Dataset & YOLOv8 Custom Model](https://github.com/malikinss/telran-backend-hw34)
 This project creates a synthetic dataset of circles and squares, generates YOLOv8-compatible labels, and trains a custom object detection model. It demonstrates an end-to-end workflow for dataset generation, model training, and inference with modular, reusable Python code.
-
+---
 ### Regular Expressions
 
 #### [Homework 35: Regular Expressions in Python](https://github.com/malikinss/telran-backend-hw35)
