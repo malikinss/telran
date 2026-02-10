@@ -165,3 +165,6 @@ This project creates a synthetic dataset of circles and squares, generates YOLOv
 
 #### [Homework 35: Regular Expressions in Python](https://github.com/malikinss/telran-backend-hw35)
 This project focuses on implementing **advanced regular expressions in Python** for validating IPv4 addresses and Israeli mobile phone numbers. The solution relies entirely on regex patterns and is fully verified through unit tests using `re.fullmatch`.
+
+#### [Homework 36: LTR Arithmetic Expression Evaluator](https://github.com/malikinss/telran-backend-hw36)
+This project implements a Left-to-Right arithmetic expression evaluator in Python with regex-based syntax validation and parentheses pairing checks. It safely evaluates expressions without operator precedence and is fully verified with unit tests.
