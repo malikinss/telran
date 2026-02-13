@@ -169,8 +169,8 @@ This project focuses on implementing **advanced regular expressions in Python** 
 #### [Homework 36: LTR Arithmetic Expression Evaluator](https://github.com/malikinss/telran-backend-hw36)
 This project implements a Left-to-Right arithmetic expression evaluator in Python with regex-based syntax validation and parentheses pairing checks. It safely evaluates expressions without operator precedence and is fully verified with unit tests.
 
-#### [Homework 37:Weather API Integration](https://github.com/malikinss/telran-backend-hw37)
+#### [Homework 37: Weather API Integration](https://github.com/malikinss/telran-backend-hw37)
 This project implements a Python client for WeatherAPI to fetch and display current weather information for any city. It includes structured data modeling with dataclasses, robust error handling, and integration tests to ensure reliable real-world API usage.
 
-#### [Homework 38:LTR Evaluation Agent Integration](https://github.com/malikinss/telran-backend-hw38)
+#### [Homework 38: LTR Evaluation Agent Integration](https://github.com/malikinss/telran-backend-hw38)
 This project implements a Python LLM-based agent capable of routing user requests to external tools, with a focus on Left-to-Right arithmetic evaluation. The agent CLI integrates tool invocation, JSON-only outputs, and robust expression handling including parentheses and syntax validation.
